@@ -1,0 +1,68 @@
+ul#navigation li.external:hover .fa, ul#navigation li.currentmenu .fa{
+	color: rgb(4, 38, 189);
+}
+.ul-boxed li {
+	border-left-color:rgb(4, 38, 189);
+}
+ul.ul-card li .dy .year {
+	background-color: rgb(4, 38, 189);
+}
+ul.ul-dates div.dates span {
+	background-color: rgb(4, 38, 189);
+}
+ul.timeline li .date {
+	background: rgb(4, 38, 189);
+}
+ul.timeline li .data {
+	border-left-color: rgb(4, 38, 189);
+}
+.ul-withdetails li .imageoverlay {
+	background: rgb(4, 38, 189);
+}
+.cd-active.cd-dropdown > span {
+	color: rgb(4, 38, 189);
+}
+.cd-active.cd-dropdown ul li span:hover {
+	background: rgb(4, 38, 189);
+}
+.pitems .pubmain .pubassets {
+	border-top-color:rgb(4, 38, 189); 
+}
+.pitems .pubmain .pubassets a:hover,.pitems .pubmain .pubassets a:focus,.pitems .pubmain .pubassets a.pubcollapse {
+	background: rgb(4, 38, 189);
+}
+.contact-office .icon-huge, .contact-lab .icon-huge {
+	color: rgb(4, 38, 189);
+}
+
+/* socpndary color 
+**************************************************/
+ul.ul-card li .dy .degree {
+	background-color: rgb(4, 38, 150);
+}
+ul.ul-dates div.dates span:last-child {
+	background-color: rgb(4, 38, 150);
+}
+ul.timeline li.open .circle {
+	background-color: rgb(4, 38, 150);
+}
+ul.timeline li.open .data {
+	border-color: rgb(4, 38, 150);
+}
+#labp-heads-wrap {
+	background-color: rgb(4, 38, 150);
+}
+#labp-heads-wrap:after{
+	border-top-color: rgb(4, 38, 150);
+}
+
+
+
+
+
+
+
+
+
+
+
